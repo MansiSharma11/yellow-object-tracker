@@ -7,7 +7,7 @@ The program uses **HSV color masking** to identify the target color and draws a 
 
 ## 📸 Demo
 Example:  
-![Yellow Object Detection Demo](demo.png)
+![Yellow Object Detection Demo](Output.gif)
 
 
 ---
@@ -35,7 +35,7 @@ yellow-object-tracker/
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/yourusername/yellow-object-tracker.git
+git clone https://github.com/MansiSharma11/yellow-object-tracker.git
 cd yellow-object-tracker
 ```
 
@@ -48,6 +48,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the project
 ```bash
+Make sure your webcam is connected and accessible.+
 python Color_Detection.py
 ```
 
