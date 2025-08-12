@@ -24,9 +24,13 @@ The program uses **HSV color masking** to identify the target color and draws a 
 ```
 yellow-object-tracker/
 │
-├── Color_Detection.py   # Main script to run detection
-├── util.py              # Utility functions (HSV range calculation)
-└── README.md            # Project documentation
+├── Color_Detection.py # Main script to run detection
+├── utility.py # Utility functions (HSV range calculation)
+├── Output-ezgif.com-optimize.gif # Demo GIF for README
+├── Output.png # Static screenshot of detection
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
 ```
 ---
 
@@ -47,7 +51,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the project
 ```bash
-Make sure your webcam is connected and accessible.+
+Make sure your webcam is connected and accessible.
 python Color_Detection.py
 ```
 
