@@ -6,8 +6,7 @@ The program uses **HSV color masking** to identify the target color and draws a 
 ---
 
 ## 📸 Demo
-Example:  
-![Yellow Object Detection Demo](Output.gif)
+![Yellow Object Detection Demo](Output-ezgif.com-optimize.gif)
 
 
 ---
