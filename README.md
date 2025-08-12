@@ -6,9 +6,9 @@ The program uses **HSV color masking** to identify the target color and draws a 
 ---
 
 ## 📸 Demo
-*(Add a screenshot or GIF of the detection in action here)*  
 Example:  
-![Yellow Object Detection Demo](demo.gif)
+![Yellow Object Detection Demo](demo.png)
+
 
 ---
 
